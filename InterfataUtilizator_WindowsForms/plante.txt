@@ -1,0 +1,3 @@
+﻿Trandafir,4,6,Nisipos,Aromatică, Decorativă
+Gerbera,4,9,Cernoziom,Decorativă
+Trandafir,4,3,Argilos,Aromatică

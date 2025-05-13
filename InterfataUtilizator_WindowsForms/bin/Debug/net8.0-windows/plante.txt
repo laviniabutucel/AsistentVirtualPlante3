@@ -1,0 +1,6 @@
+Aloe Vera,3,6,Nisipos,Medicinală
+Lavandă,7,8,Cernoziom,Aromatică
+Cactus,4,3,Argilos,Decorativă
+Bujor,2,3,Argilos,Aromatică
+Gerbera,4,9,Cernoziom,Decorativă
+Trandafir,4,3,Argilos,Aromatică

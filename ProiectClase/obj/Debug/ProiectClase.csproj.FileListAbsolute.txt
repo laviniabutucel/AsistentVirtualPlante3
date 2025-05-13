@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive\Desktop\Lavinia\PIU\PROIECT_PIU\ProiectClase\obj\Debug\ProiectClase.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Lavinia\PIU\PROIECT_PIU\ProiectClase\obj\Debug\ProiectClase.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Lavinia\PIU\PROIECT_PIU\ProiectClase\obj\Debug\ProiectClase.exe
+C:\Users\admin\OneDrive\Desktop\Lavinia\PIU\PROIECT_PIU\ProiectClase\obj\Debug\ProiectClase.pdb
+C:\Users\admin\OneDrive\Desktop\Lavinia\PIU\PROIECT_PIU\ProiectClase\bin\Debug\ProiectClase.exe.config
+C:\Users\admin\OneDrive\Desktop\Lavinia\PIU\PROIECT_PIU\ProiectClase\bin\Debug\ProiectClase.exe
+C:\Users\admin\OneDrive\Desktop\Lavinia\PIU\PROIECT_PIU\ProiectClase\bin\Debug\ProiectClase.pdb
